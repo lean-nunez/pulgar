@@ -10,7 +10,7 @@
 # para ver el proyecto tenes que descargar el archivo ".mblock" y subirlo en la pagina web o aplicacion mblock donde veras el sistema de botones que tiene el programa 
 
 
-#despues de descargar el archivo tienen que escanaar en maquina educable si pulgar respetando todo.
+despues de descargar el archivo tienen que escanaar en maquina educable si pulgar respetando todo.
 
 
-#¡¡¡SI EL CODIGO FUNCIONA NO LO TOQUES!!!!
+¡¡¡SI EL CODIGO FUNCIONA NO LO TOQUES!!!!
