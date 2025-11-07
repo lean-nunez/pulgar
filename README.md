@@ -1,16 +1,43 @@
-# pulgar arriba o pulgar abajo
-## Proyecto hecho por: Leandro Nuñez, Santiago vigna , Tiago Gomez, Santiago Machado y Maximo Bautista
+# 👍 Pulgar Arriba o Pulgar Abajo
 
-### En este proyecto se creo un sistema Automatizado con arduino para tomar una decision a favor o en contra tomando por ejemplo calificacion de estudiantes en alguna materia: 
+## 🏫 Proyecto Escolar
+Este proyecto fue desarrollado como parte de una actividad práctica utilizando **Arduino** y **Mblock**, con el objetivo de crear un **sistema automatizado de evaluación** que permita decidir si un estudiante **aprueba, desaprueba o necesita reforzar contenido**.
 
-### pulgar Arriba = Materia aprobada
-### pulgar Abajo = Materia desaprobada
-### ninguna decision = reforzar contenido para definir 
+---
 
-# para ver el proyecto tenes que descargar el archivo ".mblock" y subirlo en la pagina web o aplicacion mblock donde veras el sistema de botones que tiene el programa 
+## 👥 Equipo de Trabajo
+- **Leandro Nuñez**
+- **Santiago Vigna**
+- **Tiago Gomez**
+- **Santiago Machado**
+- **Máximo Bautista**
 
+---
 
-despues de descargar el archivo tienen que escanaar en maquina educable si pulgar respetando todo.
+## 🎯 ¿En qué consiste el proyecto?
 
+El sistema toma una decisión respecto a una calificación o desempeño utilizando tres acciones posibles:
 
-¡¡¡SI EL CODIGO FUNCIONA NO LO TOQUES!!!!
+| Señal | Significado |
+|------|-------------|
+| 👍 **Pulgar Arriba** | Materia aprobada |
+| 👎 **Pulgar Abajo** | Materia desaprobada |
+| ➖ **Sin decisión** | Reforzar contenido antes de decidir |
+
+Este mecanismo sirve como ejemplo de **evaluación rápida** y puede aplicarse en diferentes contextos educativos.
+
+---
+
+## 🔧 ¿Cómo ver y usar el proyecto?
+
+1. **Descargar el archivo `.mblock`** incluido en este repositorio.
+2. Abrir la **aplicación Mblock** (versión web o de escritorio).
+3. Importar el archivo para visualizar el programa y el sistema de botones.
+
+---
+
+## 🤖 Importante para Máquina Educable
+Después de cargar el programa:
+- **Escanear el gesto de "pulgar"**
+- Asegurarse de respetar **las posiciones y tiempos de reconocimiento**
+- Guardar la configuración antes de ejecutar
